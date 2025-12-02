@@ -10,6 +10,10 @@ export default function Home() {
       }}
     >
       <h2 className="text-8xl font-semibold">NextJS 16</h2>
+      <p className="mt-4 text-2xl">This is a NextJS 16 project with the new app directory!</p>
+      <div className="mt-8">
+
+      </div>
     </div>
   );
 }
