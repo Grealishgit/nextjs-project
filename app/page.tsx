@@ -9,10 +9,12 @@ export default function Home() {
         backgroundPosition: 'center',
       }}
     >
-      <h2 className="text-8xl text-yellow-400 font-semibold">Tasker Web App</h2>
-      <p className="mt-4 font-semibold text-5xl">Coming Soon!</p>
+      <h2 className="md:text-8xl text-5xl text-center text-yellow-400 font-semibold">
+        Tasker Web App
+      </h2>
+      <p className="mt-4 font-semibold md:text-5xl text-3xl">Coming Soon!</p>
 
-      <div className="mt-8 flex items-center gap-2">
+      <div className="flex items-center gap-2">
         <p className="text-2xl font-semibold">Developer:</p>
         <a className="text-2xl font-semibold underline text-yellow-600" href="https://github.com/Grealishgit" >Hunter</a>
 
