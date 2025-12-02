@@ -18,6 +18,9 @@ export default function Home() {
         <p className="text-2xl font-semibold">Developer:</p>
         <a className="text-2xl font-semibold underline text-yellow-600" href="https://github.com/Grealishgit" >Hunter</a>
 
+        <a href="/about">About Page</a>
+        <a href="/tasks">Tasks Page</a>
+
       </div>
     </div>
   );
